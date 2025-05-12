@@ -4,7 +4,8 @@
 ### 📊 GitHub Activity
 
 
-<img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="500" alt="Typing Animation">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ptcm1oMTdyeGQ4ZDIxYnM5NHphZzhmYXM4ZmIxYTA2cWxtM3g5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif 
+" width="500" alt="Typing Animation">
 
 
 
